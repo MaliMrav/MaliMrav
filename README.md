@@ -2,11 +2,11 @@
 
 I like helping curious people understand why.
 
-If that sounds like you too... pull up a chair.
+_If that sounds like you too... pull up a chair._<br>
 
 If you've ever looked at something and wondered,
 
-**"Why did they build it that way?"**
+>**"Why did they build it that way?"**
 
 you're in good company.
 
@@ -20,7 +20,8 @@ Sometimes it was a Dynamic DNS updater.
 
 Sometimes it was nothing more than a little ESP32 with a touchscreen.
 
-None of them stayed that way for very long.
+None of them stayed that way for very long.<br><br>
+
 
 Somewhere along the journey, the question quietly changed.
 
@@ -30,7 +31,7 @@ It stopped being,
 
 and became,
 
-"Why does this work so well... and why do other solutions slowly become impossible to live with?"
+"Why does this work so well... and why do other solutions slowly become impossible to live with?"<br><br>
 
 This GitHub happens to contain code.
 
@@ -42,11 +43,9 @@ It's about understanding why before worrying about how.
 >In fact, I hope you don't.<br>
 >I hope you leave with better questions than the ones you arrived with.<br>
 
-You don't need a degree in electronics.
-
-You don't need to understand enterprise architecture.
-
-You don't need to know C++.
+You don't need a degree in electronics.<br>
+You don't need to understand enterprise architecture.<br>
+You don't need to know C++.<br>
 
 Curiosity is enough.
 
@@ -54,12 +53,12 @@ I remember what it felt like to think everyone else understood this already.
 
 They didn't.
 
-They were simply a little further down the same road.
+They were simply a little further along the road.
 
 If anything here makes that road a little shorter for you, then every project on this GitHub has been worthwhile.
 
 Pull up a chair.
 
-I have a feeling you're going to enjoy this.
+Let's see where curiosity takes us.
 
 
